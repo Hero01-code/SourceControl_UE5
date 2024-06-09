@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/SourceControl_UE5/MyProject/Content/Untitled.umap",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/ThirdPerson/Maps/_GENERATED/MekinBey/Box_9EDB1D47.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/ThirdPerson/Maps/_GENERATED/MekinBey/Box_9EDB1D47_Box_9EDB1D47/GC_Box.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/LevelPrototyping/Meshes/SM_ChamferCube_SM_ChamferCube/GC_SM_ChamferCube.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/LevelPrototyping/Meshes/SM_ChamferCube_SM_ChamferCube/GC_SM_ChamferCube3.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/23/VI65ISKZTQ6J85CICXMMLU.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/03/4QBYHRQ2IB8S23NSMN6RJ6.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LL/775X7IMBOYIFDN0LWI9IOI.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/LevelPrototyping/Materials/M_Solid.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5R/5C4TKM80PFZ7XHEJ393N9I.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GG/FXJ13UHZW373UVC3VIUYZN.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/ThirdPerson/Maps/_GENERATED/MekinBey/SM_Cube_Solid_F46305A3.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/EK/I6G1FJ6113X45KVFOVFAAA.uasset",
+				"E:/SourceControl_UE5/MyProject/Content/ThirdPerson/Maps/_GENERATED/MekinBey/Stairs_3C635F69.uasset"
+			]
+		}
+	]
+}
